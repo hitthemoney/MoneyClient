@@ -1,7 +1,7 @@
 {
-  "name": "cclientx",
+  "name": "moneyclient",
   "version": "1.0.0",
-  "description": "Rewrite of CClient on nwjs",
+  "description": "A krunker client based off of CClientX",
   "main": "js/main.js",
   "window": {
     "title": "CClientX",
@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/Cuffuffles/CClientX.git"
   },
-  "author": "Cuffuffles",
+  "author": "Cuffuffles x hitthemoney",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/Cuffuffles/CClientX/issues"
@@ -27,10 +27,10 @@
     "nw": "^0.44.5-sdk"
   },
   "dependencies": {
-    "discord-rpc": "^3.1.0",
-    "follow-redirects": "^1.10.0",
-    "jquery": "^3.5.0",
-    "semver": "^7.1.3",
+    "discord-rpc": "^3.1.3",
+    "follow-redirects": "^1.13.0",
+    "jquery": "^3.5.1",
+    "semver": "^7.3.2",
     "socket.io": "^2.3.0"
   },
   "webkit": {
