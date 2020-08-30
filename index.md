@@ -1,4 +1,3 @@
-# MoneyClient
 ## About
 MoneyClient is a krunker client based off of CClientX
 ## Downloads
